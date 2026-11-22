@@ -61,8 +61,8 @@ jobs:
           set -euo pipefail
           APP="build/DerivedData/Build/Products/Release-iphoneos/LitgramMessenger.app"
           test -d "$APP"
-          ./Scripts/make-ipa.sh "$APP" LitgramMessenger-unsigned.ipa
-          ./Scripts/validate-ipa.sh LitgramMessenger-unsigned.ipa "$BUNDLE_ID"
+          bash Scripts/make-ipa.sh "$APP" LitgramMessenger-unsigned.ipa
+          bash Scripts/validate-ipa.sh LitgramMessenger-unsigned.ipa "$BUNDLE_ID"
           shasum -a 256 LitgramMessenger-unsigned.ipa > sha256.txt
 
       - name: Upload IPA
