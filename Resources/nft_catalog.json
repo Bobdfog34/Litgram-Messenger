@@ -1,0 +1,2310 @@
+[
+ {
+  "id": "5782988952268964995",
+  "title": "Desk Calendar",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 25,
+  "modelCount": 157,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Burning Time",
+   "Independence",
+   "Deadline"
+  ],
+  "thumb": "5472026645659401564-photo-m.bin"
+ },
+ {
+  "id": "6001473264306619020",
+  "title": "Jingle Bells",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 151,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Radar",
+   "Star Prize",
+   "Yule Bells"
+  ],
+  "thumb": "5384510480775669175-photo-m.bin"
+ },
+ {
+  "id": "5775966332847654507",
+  "title": "Myth Mask",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 100,
+  "modelCount": 134,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Dark Knight",
+   "Night Howler",
+   "Iron Maiden"
+  ],
+  "thumb": "5201966171603106893-photo-m.bin"
+ },
+ {
+  "id": "5832279504491381684",
+  "title": "Resistance Dog",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 1000,
+  "modelCount": 127,
+  "patternCount": 244,
+  "backdropCount": 80,
+  "models": [
+   "Imposter",
+   "Chosen One",
+   "Mastermind"
+  ],
+  "thumb": "5255975823436973213-photo-m.bin"
+ },
+ {
+  "id": "5868503709637411929",
+  "title": "Diamond Ring",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 200,
+  "modelCount": 100,
+  "patternCount": 296,
+  "backdropCount": 60,
+  "models": [
+   "Ocean Gem",
+   "Red Velvet",
+   "Snake Eye"
+  ],
+  "thumb": "5294459769791210746-photo-m.bin"
+ },
+ {
+  "id": "5783075783622787539",
+  "title": "Homemade Cake",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Interstellar",
+   "Frosty",
+   "Volcano"
+  ],
+  "thumb": "5452055425690123301-photo-m.bin"
+ },
+ {
+  "id": "5879737836550226478",
+  "title": "Mini Oscar",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 262,
+  "backdropCount": 60,
+  "models": [
+   "Patina",
+   "Mango Tango",
+   "Red Dream"
+  ],
+  "thumb": "5283006569481525574-photo-m.bin"
+ },
+ {
+  "id": "5782984811920491178",
+  "title": "B-Day Candle",
+  "stars": 350,
+  "convertStars": 298,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Kaboom!",
+   "Shocker",
+   "Final Boss"
+  ],
+  "thumb": "5404431410972864937-photo-m.bin"
+ },
+ {
+  "id": "5980789805615678057",
+  "title": "Snow Mittens",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Water Bender",
+   "Fire Nation",
+   "Fortune"
+  ],
+  "thumb": "5370570421387157397-photo-m.bin"
+ },
+ {
+  "id": "5935936766358847989",
+  "title": "Bunny Muffin",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 189,
+  "backdropCount": 60,
+  "models": [
+   "Lovely Ruby",
+   "Diamond",
+   "Gold"
+  ],
+  "thumb": "5289749346013697883-photo-m.bin"
+ },
+ {
+  "id": "5915733223018594841",
+  "title": "Hanging Star",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Shamrock",
+   "Snowflake",
+   "Sparkles"
+  ],
+  "thumb": "5287433345028872301-photo-m.bin"
+ },
+ {
+  "id": "5856973938650776169",
+  "title": "Record Player",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Emocore",
+   "High-End",
+   "Barbie Land"
+  ],
+  "thumb": "5273738292049762668-photo-m.bin"
+ },
+ {
+  "id": "5825895989088617224",
+  "title": "Hypno Lollipop",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Graffiti",
+   "Kawaii Dog",
+   "Reward"
+  ],
+  "thumb": "5230974475209554508-photo-m.bin"
+ },
+ {
+  "id": "5915502858152706668",
+  "title": "Jelly Bunny",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Violet Swirl",
+   "Pinkie Pie",
+   "Soft Flavor"
+  ],
+  "thumb": "5292285936518849387-photo-m.bin"
+ },
+ {
+  "id": "6028426950047957932",
+  "title": "Lunar Snake",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 136,
+  "backdropCount": 60,
+  "models": [
+   "Synthwave",
+   "Dragon Ball",
+   "Gen Zmei"
+  ],
+  "thumb": "5449588035698057178-photo-m.bin"
+ },
+ {
+  "id": "5167939598143193218",
+  "title": "Sakura Flower",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Flowey",
+   "Sunflower",
+   "Wilted"
+  ],
+  "thumb": "5440354006335495210-photo-m.bin"
+ },
+ {
+  "id": "5936017773737018241",
+  "title": "Star Notepad",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Clown",
+   "Toilet Paper",
+   "Mon Amour"
+  ],
+  "thumb": "5361753922975348287-photo-m.bin"
+ },
+ {
+  "id": "6001538689543439169",
+  "title": "Cookie Heart",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 229,
+  "backdropCount": 60,
+  "models": [
+   "Lucky Charm",
+   "Superstar",
+   "Sugar Kitty"
+  ],
+  "thumb": "5362088994848923447-photo-m.bin"
+ },
+ {
+  "id": "5983484377902875708",
+  "title": "Ginger Cookie",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 136,
+  "backdropCount": 60,
+  "models": [
+   "Universe",
+   "Pun-Cake",
+   "Brand New"
+  ],
+  "thumb": "5384532380813910923-photo-m.bin"
+ },
+ {
+  "id": "5933590374185435592",
+  "title": "Jester Hat",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Pepe Hop",
+   "Thumbs Up",
+   "Jester Box"
+  ],
+  "thumb": "5301170205219642529-photo-m.bin"
+ },
+ {
+  "id": "5170594532177215681",
+  "title": "Lol Pop",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Satellite",
+   "Glowstick",
+   "Doodle Art"
+  ],
+  "thumb": "5424799150912838494-photo-m.bin"
+ },
+ {
+  "id": "6003643167683903930",
+  "title": "Party Sparkler",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 136,
+  "backdropCount": 60,
+  "models": [
+   "Power Line",
+   "Premium",
+   "Bitcoin"
+  ],
+  "thumb": "5359683967781986706-photo-m.bin"
+ },
+ {
+  "id": "5913442287462908725",
+  "title": "Spiced Wine",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 256,
+  "backdropCount": 60,
+  "models": [
+   "Moon Rocks",
+   "Water Spout",
+   "Hazmat"
+  ],
+  "thumb": "5330435502489231897-photo-m.bin"
+ },
+ {
+  "id": "5821384757304362229",
+  "title": "Witch Hat",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 100,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Arctic",
+   "Daphnaie",
+   "Ultraviolet"
+  ],
+  "thumb": "5296631769112525274-photo-m.bin"
+ },
+ {
+  "id": "6023752243218481939",
+  "title": "Tama Gadget",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 90,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Heartbeat",
+   "Poo Byte",
+   "Nyan Cat"
+  ],
+  "thumb": "5447111643454531858-photo-m.bin"
+ },
+ {
+  "id": "5868659926187901653",
+  "title": "Loot Bag",
+  "stars": 2500,
+  "convertStars": 2125,
+  "upgradeStars": 500,
+  "modelCount": 80,
+  "patternCount": 262,
+  "backdropCount": 60,
+  "models": [
+   "Circus",
+   "Scrooge",
+   "Conductor"
+  ],
+  "thumb": "5294539325470434034-photo-m.bin"
+ },
+ {
+  "id": "5933671725160989227",
+  "title": "Precious Peach",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 25,
+  "modelCount": 80,
+  "patternCount": 289,
+  "backdropCount": 60,
+  "models": [
+   "Caramel Red",
+   "Smelting",
+   "Spanked"
+  ],
+  "thumb": "5292092955048302153-photo-m.bin"
+ },
+ {
+  "id": "5821205665758053411",
+  "title": "Eternal Candle",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 80,
+  "patternCount": 136,
+  "backdropCount": 60,
+  "models": [
+   "Wildflowers",
+   "Snake Skin",
+   "Rare Jewels"
+  ],
+  "thumb": "5253717838870363235-photo-m.bin"
+ },
+ {
+  "id": "5825801628657124140",
+  "title": "Hex Pot",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 80,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Fire Storm",
+   "Amortentia",
+   "Defensive"
+  ],
+  "thumb": "5289764034801841061-photo-m.bin"
+ },
+ {
+  "id": "5821261908354794038",
+  "title": "Spy Agaric",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 80,
+  "patternCount": 136,
+  "backdropCount": 60,
+  "models": [
+   "Amour Touch",
+   "Nosferatu",
+   "Radiance"
+  ],
+  "thumb": "5472427031100667803-photo-m.bin"
+ },
+ {
+  "id": "5868348541058942091",
+  "title": "Love Potion",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 200,
+  "modelCount": 70,
+  "patternCount": 264,
+  "backdropCount": 60,
+  "models": [
+   "Angel Wings",
+   "Molten Gold",
+   "Bloodlust"
+  ],
+  "thumb": "5294256463219291541-photo-m.bin"
+ },
+ {
+  "id": "5897593557492957738",
+  "title": "Top Hat",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 200,
+  "modelCount": 70,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Pixel Perfect",
+   "Solar System",
+   "Megawatt"
+  ],
+  "thumb": "5321086861924395647-photo-m.bin"
+ },
+ {
+  "id": "5868220813026526561",
+  "title": "Toy Bear",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 100,
+  "modelCount": 70,
+  "patternCount": 264,
+  "backdropCount": 60,
+  "models": [
+   "Golden Cub",
+   "Deadpool",
+   "Lunaris"
+  ],
+  "thumb": "5293983582472135373-photo-m.bin"
+ },
+ {
+  "id": "5882252952218894938",
+  "title": "Berry Box",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 70,
+  "patternCount": 191,
+  "backdropCount": 60,
+  "models": [
+   "Sweet Kiss",
+   "Bumberries",
+   "Lady Bites"
+  ],
+  "thumb": "5276397508166181441-photo-m.bin"
+ },
+ {
+  "id": "5983471780763796287",
+  "title": "Santa Hat",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 70,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Telecap",
+   "Sweet Cane",
+   "Jingle Volts"
+  ],
+  "thumb": "5384530624172288606-photo-m.bin"
+ },
+ {
+  "id": "6023679164349940429",
+  "title": "Snake Box",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 70,
+  "patternCount": 136,
+  "backdropCount": 80,
+  "models": [
+   "Claw Crane",
+   "Jackbox",
+   "Snake Wok"
+  ],
+  "thumb": "5447306828243301016-photo-m.bin"
+ },
+ {
+  "id": "5983259145522906006",
+  "title": "Winter Wreath",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 70,
+  "patternCount": 138,
+  "backdropCount": 80,
+  "models": [
+   "Hellfire",
+   "Neon Sign",
+   "Telegram"
+  ],
+  "thumb": "5384447215907396732-photo-m.bin"
+ },
+ {
+  "id": "6003767644426076664",
+  "title": "Xmas Stocking",
+  "stars": 10,
+  "convertStars": 9,
+  "upgradeStars": 25,
+  "modelCount": 65,
+  "patternCount": 202,
+  "backdropCount": 80,
+  "models": [
+   "Fireplace",
+   "Halloween",
+   "Crypto Wallet"
+  ],
+  "thumb": "5422391899052860201-photo-m.bin"
+ },
+ {
+  "id": "5773668482394620318",
+  "title": "Easter Egg",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 62,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Easter Bunny",
+   "Sea Turtle",
+   "Choco Bunny"
+  ],
+  "thumb": "5197438958245539589-photo-m.bin"
+ },
+ {
+  "id": "5868455043362980631",
+  "title": "Heart Locket",
+  "stars": 10000,
+  "convertStars": 8500,
+  "upgradeStars": 2000,
+  "modelCount": 60,
+  "patternCount": 240,
+  "backdropCount": 80,
+  "models": [
+   "Neptune",
+   "Mirror",
+   "Turtles"
+  ],
+  "thumb": "5294430336380330453-photo-m.bin"
+ },
+ {
+  "id": "6005797617768858105",
+  "title": "Artisan Brick",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 1000,
+  "modelCount": 60,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Gold Bar",
+   "USBrick",
+   "Gold Block"
+  ],
+  "thumb": "5429371521556575113-photo-m.bin"
+ },
+ {
+  "id": "5933793770951673155",
+  "title": "Neko Helmet",
+  "stars": 2500,
+  "convertStars": 2125,
+  "upgradeStars": 500,
+  "modelCount": 60,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Bulldog Bob",
+   "Turbo Frog",
+   "Sky Diver"
+  ],
+  "thumb": "5359694133969576053-photo-m.bin"
+ },
+ {
+  "id": "5999298447486747746",
+  "title": "Liberty Figure",
+  "stars": 250,
+  "convertStars": 213,
+  "upgradeStars": 50,
+  "modelCount": 60,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Marilyn",
+   "Homeland",
+   "iFather"
+  ],
+  "thumb": "5422557869474088584-photo-m.bin"
+ },
+ {
+  "id": "5870972044522291836",
+  "title": "Input Key",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 60,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Like Button",
+   "Quad Damage",
+   "Submit Button"
+  ],
+  "thumb": "5465502401358226185-photo-m.bin"
+ },
+ {
+  "id": "6023917088358269866",
+  "title": "Pet Snake",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 60,
+  "patternCount": 136,
+  "backdropCount": 80,
+  "models": [
+   "Portal",
+   "Spooky",
+   "Banana"
+  ],
+  "thumb": "5447469461474929443-photo-m.bin"
+ },
+ {
+  "id": "6005659564635063386",
+  "title": "Jack-in-the-Box",
+  "stars": 300,
+  "convertStars": 255,
+  "upgradeStars": 25,
+  "modelCount": 58,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Haunted House",
+   "Splash",
+   "Happy Poo"
+  ],
+  "thumb": "5429360500670490737-photo-m.bin"
+ },
+ {
+  "id": "5839094187366024301",
+  "title": "KhabibвЂ™s Papakha",
+  "stars": 2900,
+  "convertStars": 2465,
+  "upgradeStars": 0,
+  "modelCount": 56,
+  "patternCount": 161,
+  "backdropCount": 80,
+  "models": [
+   "Legendary Item",
+   "Champion Belt",
+   "Ring King"
+  ],
+  "thumb": "5264935331374862147-photo-m.bin"
+ },
+ {
+  "id": "5843762284240831056",
+  "title": "Ion Gem",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 56,
+  "patternCount": 262,
+  "backdropCount": 60,
+  "models": [
+   "Sunbeam",
+   "Elements",
+   "Kryptonite"
+  ],
+  "thumb": "5201914481671682382-photo-m.bin"
+ },
+ {
+  "id": "5882129648002794519",
+  "title": "Fine Pen",
+  "stars": 2500,
+  "convertStars": 2125,
+  "upgradeStars": 250,
+  "modelCount": 55,
+  "patternCount": 225,
+  "backdropCount": 80,
+  "models": [
+   "Survivalist",
+   "Redacted",
+   "School Time"
+  ],
+  "thumb": "5305624709075864365-photo-m.bin"
+ },
+ {
+  "id": "5915521180483191380",
+  "title": "DurovвЂ™s Cap",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 25,
+  "modelCount": 55,
+  "patternCount": 198,
+  "backdropCount": 60,
+  "models": [
+   "Asterix",
+   "RGB Glitch",
+   "Artwork"
+  ],
+  "thumb": "5330191715850541636-photo-m.bin"
+ },
+ {
+  "id": "5857140566201991735",
+  "title": "Vintage Cigar",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 55,
+  "patternCount": 198,
+  "backdropCount": 60,
+  "models": [
+   "Short Fuse",
+   "Super Swirls",
+   "El Classico"
+  ],
+  "thumb": "5271480608130883261-photo-m.bin"
+ },
+ {
+  "id": "6028283532500009446",
+  "title": "Big Year",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 55,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Creator",
+   "Game Boy",
+   "Jelly Year"
+  ],
+  "thumb": "5447490764512716380-photo-m.bin"
+ },
+ {
+  "id": "5841336413697606412",
+  "title": "Crystal Ball",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 55,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Druid Circle",
+   "Honey Cake",
+   "Sanguine"
+  ],
+  "thumb": "5271810272640643747-photo-m.bin"
+ },
+ {
+  "id": "5886387158889005864",
+  "title": "Timeless Book",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 200,
+  "modelCount": 52,
+  "patternCount": 220,
+  "backdropCount": 80,
+  "models": [
+   "Death Note",
+   "The Ledger",
+   "Token Vault"
+  ],
+  "thumb": "5310162878894999252-photo-m.bin"
+ },
+ {
+  "id": "5897581235231785485",
+  "title": "Light Sword",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 52,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Wrath of Vader",
+   "Master Yoda",
+   "Jedi Luke"
+  ],
+  "thumb": "5318865556378511858-photo-m.bin"
+ },
+ {
+  "id": "5999277561060787166",
+  "title": "Chill Flame",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 25,
+  "modelCount": 52,
+  "patternCount": 300,
+  "backdropCount": 80,
+  "models": [
+   "Satis-fire",
+   "Eye of Sauron",
+   "Skyrim"
+  ],
+  "thumb": "5424672908939130073-photo-m.bin"
+ },
+ {
+  "id": "5913351908466098791",
+  "title": "Mirage Lamp",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 52,
+  "patternCount": 147,
+  "backdropCount": 80,
+  "models": [
+   "Warm Pixel",
+   "Crimson Shrine",
+   "Iron Hearth"
+  ],
+  "thumb": "5337156215774410299-photo-m.bin"
+ },
+ {
+  "id": "5999116401002939514",
+  "title": "Rare Bird",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 1000,
+  "modelCount": 51,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Fiscal Hawk",
+   "Frozen Gold",
+   "Thunderbird"
+  ],
+  "thumb": "5422517917688296142-photo-m.bin"
+ },
+ {
+  "id": "5872744075014177223",
+  "title": "Lucky Locket",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 50,
+  "modelCount": 51,
+  "patternCount": 300,
+  "backdropCount": 80,
+  "models": [
+   "TG Couple",
+   "Alien",
+   "Scared Cat"
+  ],
+  "thumb": "5294474226651129609-photo-m.bin"
+ },
+ {
+  "id": "5834651202612102354",
+  "title": "DurovвЂ™s Glasses",
+  "stars": 30000,
+  "convertStars": 25500,
+  "upgradeStars": 2500,
+  "modelCount": 50,
+  "patternCount": 150,
+  "backdropCount": 80,
+  "models": [
+   "Thug Life",
+   "Wipers",
+   "Splinter Cell"
+  ],
+  "thumb": "5255965236342586860-photo-m.bin"
+ },
+ {
+  "id": "5895518353849582541",
+  "title": "Mighty Arm",
+  "stars": 10000,
+  "convertStars": 8500,
+  "upgradeStars": 2000,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Icebreaker",
+   "Colossus",
+   "Best Muscles"
+  ],
+  "thumb": "5319126771994490119-photo-m.bin"
+ },
+ {
+  "id": "5870720080265871962",
+  "title": "Nail Bracelet",
+  "stars": 10000,
+  "convertStars": 8500,
+  "upgradeStars": 2000,
+  "modelCount": 50,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Gold Rush",
+   "Interstellar",
+   "Diamond"
+  ],
+  "thumb": "5463206848712697897-photo-m.bin"
+ },
+ {
+  "id": "6014697240977737490",
+  "title": "Westside Sign",
+  "stars": 10000,
+  "convertStars": 8500,
+  "upgradeStars": 2000,
+  "modelCount": 50,
+  "patternCount": 175,
+  "backdropCount": 80,
+  "models": [
+   "Champion",
+   "Gospel Vibe",
+   "Snoopy"
+  ],
+  "thumb": "5438548621127615575-photo-m.bin"
+ },
+ {
+  "id": "5902339509239940491",
+  "title": "Bling Binky",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 1000,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Monarch",
+   "Star Fighter",
+   "Red Lipstick"
+  ],
+  "thumb": "5323657958196804832-photo-m.bin"
+ },
+ {
+  "id": "5870661333703197240",
+  "title": "Bonded Ring",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 1000,
+  "modelCount": 50,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Ring of Roots",
+   "Goldsmith",
+   "Asteroid"
+  ],
+  "thumb": "5463153698492409496-photo-m.bin"
+ },
+ {
+  "id": "5895328365971244193",
+  "title": "Heroic Helmet",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 1000,
+  "modelCount": 50,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Cyberpunk",
+   "Equalizer",
+   "Pickelhaube"
+  ],
+  "thumb": "5318884376925204522-photo-m.bin"
+ },
+ {
+  "id": "6014675319464657779",
+  "title": "Low Rider",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 1000,
+  "modelCount": 50,
+  "patternCount": 175,
+  "backdropCount": 80,
+  "models": [
+   "Telegram Bus",
+   "Gigahorse",
+   "DeLorean"
+  ],
+  "thumb": "5438223054016638005-photo-m.bin"
+ },
+ {
+  "id": "5832497899283415733",
+  "title": "Surge Board",
+  "stars": 2500,
+  "convertStars": 2125,
+  "upgradeStars": 500,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Duke",
+   "Pepe Surfer",
+   "Balls of Steel"
+  ],
+  "thumb": "5256243683367356869-photo-m.bin"
+ },
+ {
+  "id": "5936013938331222567",
+  "title": "Plush Pepe",
+  "stars": 2000,
+  "convertStars": 1700,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 280,
+  "backdropCount": 60,
+  "models": [
+   "Gucci Leap",
+   "Louis Vuittoad",
+   "Emerald Plush"
+  ],
+  "thumb": "5334887566804016544-photo-m.bin"
+ },
+ {
+  "id": "5933937398953018107",
+  "title": "Ionic Dryer",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 200,
+  "modelCount": 50,
+  "patternCount": 240,
+  "backdropCount": 80,
+  "models": [
+   "Beholder",
+   "Air Force One",
+   "Arc Reactor"
+  ],
+  "thumb": "5357444460164707026-photo-m.bin"
+ },
+ {
+  "id": "6012435906336654262",
+  "title": "Snoop Cigar",
+  "stars": 1000,
+  "convertStars": 850,
+  "upgradeStars": 200,
+  "modelCount": 50,
+  "patternCount": 175,
+  "backdropCount": 80,
+  "models": [
+   "Snoop Graffiti",
+   "Infinity Stoned",
+   "Cartoon Roll"
+  ],
+  "thumb": "5436120792079302539-photo-m.bin"
+ },
+ {
+  "id": "5933629604416717361",
+  "title": "Astral Shard",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 198,
+  "backdropCount": 60,
+  "models": [
+   "EveвЂ™s Apple",
+   "Elven Might",
+   "Dark Soul"
+  ],
+  "thumb": "5325685779760962109-photo-m.bin"
+ },
+ {
+  "id": "5859442703032386168",
+  "title": "Gem Signet",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 100,
+  "modelCount": 50,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Molten Core",
+   "Spinny Boi",
+   "Eternal Life"
+  ],
+  "thumb": "5352734865315881645-photo-m.bin"
+ },
+ {
+  "id": "5886756255493523118",
+  "title": "Mood Pack",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 100,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Proton Pack",
+   "Jetpack",
+   "Net Worth"
+  ],
+  "thumb": "5307949733786976205-photo-m.bin"
+ },
+ {
+  "id": "5913517067138499193",
+  "title": "Perfume Bottle",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 289,
+  "backdropCount": 60,
+  "models": [
+   "Blizzard",
+   "Electric Aura",
+   "Flame Kiss"
+  ],
+  "thumb": "5272007523308689132-photo-m.bin"
+ },
+ {
+  "id": "6012607142387778152",
+  "title": "Swag Bag",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 100,
+  "modelCount": 50,
+  "patternCount": 175,
+  "backdropCount": 80,
+  "models": [
+   "Cookie Dude",
+   "Missionary",
+   "Gin & Jewels"
+  ],
+  "thumb": "5438645653028762597-photo-m.bin"
+ },
+ {
+  "id": "5868595669182186720",
+  "title": "Valentine Box",
+  "stars": 400,
+  "convertStars": 340,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 175,
+  "backdropCount": 80,
+  "models": [
+   "Toncoin",
+   "Minnie",
+   "Hitman"
+  ],
+  "thumb": "5292099655197289800-photo-m.bin"
+ },
+ {
+  "id": "5933531623327795414",
+  "title": "Genie Lamp",
+  "stars": 350,
+  "convertStars": 298,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 198,
+  "backdropCount": 60,
+  "models": [
+   "Aladdin",
+   "Cat Spirit",
+   "Tea Time"
+  ],
+  "thumb": "5312031339992603513-photo-m.bin"
+ },
+ {
+  "id": "5895544372761461960",
+  "title": "Bow Tie",
+  "stars": 300,
+  "convertStars": 255,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Cambridge",
+   "Heritage",
+   "Tie Fighter"
+  ],
+  "thumb": "5318925922143857841-photo-m.bin"
+ },
+ {
+  "id": "5870862540036113469",
+  "title": "Joyful Bundle",
+  "stars": 300,
+  "convertStars": 255,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Pure Gold",
+   "Spider-Dog",
+   "Pepe Bag"
+  ],
+  "thumb": "5291741351845587729-photo-m.bin"
+ },
+ {
+  "id": "5832644211639321671",
+  "title": "Pool Float",
+  "stars": 300,
+  "convertStars": 255,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Luxury Yacht",
+   "Baywatch",
+   "Nessie"
+  ],
+  "thumb": "5255734132742324362-photo-m.bin"
+ },
+ {
+  "id": "5870947077877400011",
+  "title": "Sky Stilettos",
+  "stars": 300,
+  "convertStars": 255,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Crypto Queen",
+   "Spidergirl",
+   "Fortuna"
+  ],
+  "thumb": "5294208393945311238-photo-m.bin"
+ },
+ {
+  "id": "5830340739074097859",
+  "title": "Victory Medal",
+  "stars": 300,
+  "convertStars": 255,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Aegis",
+   "The Founder",
+   "King Troll"
+  ],
+  "thumb": "5253505577291641700-photo-m.bin"
+ },
+ {
+  "id": "5871002671934079382",
+  "title": "Lush Bouquet",
+  "stars": 250,
+  "convertStars": 213,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Chamomile",
+   "Cable Mess",
+   "Lotus Garden"
+  ],
+  "thumb": "5292138056499884476-photo-m.bin"
+ },
+ {
+  "id": "5963238670868677492",
+  "title": "Money Pot",
+  "stars": 250,
+  "convertStars": 213,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Skibidi Toilet",
+   "TON Holder",
+   "Sauron"
+  ],
+  "thumb": "5384540360863150750-photo-m.bin"
+ },
+ {
+  "id": "6005880141270483700",
+  "title": "Jolly Chimp",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Golden Monkey",
+   "Liberation",
+   "Tired Primate"
+  ],
+  "thumb": "5429359104806118631-photo-m.bin"
+ },
+ {
+  "id": "5870784783948186838",
+  "title": "Restless Jar",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 262,
+  "backdropCount": 80,
+  "models": [
+   "Gift Holder",
+   "Kittens",
+   "Piggy Bank"
+  ],
+  "thumb": "5291877442179329766-photo-m.bin"
+ },
+ {
+  "id": "5981026247860290310",
+  "title": "Sleigh Bell",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 256,
+  "backdropCount": 80,
+  "models": [
+   "Darth Vader",
+   "Stuart",
+   "Stellar Map"
+  ],
+  "thumb": "5377319674730010551-photo-m.bin"
+ },
+ {
+  "id": "6014591077976114307",
+  "title": "Snoop Dogg",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "King Snoop",
+   "Doggfather",
+   "Goldizzle"
+  ],
+  "thumb": "5438222109123834742-photo-m.bin"
+ },
+ {
+  "id": "6042113507581755979",
+  "title": "Stellar Rocket",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Mission Uranus",
+   "To The Moon",
+   "Bitcoin"
+  ],
+  "thumb": "5465339480363795746-photo-m.bin"
+ },
+ {
+  "id": "5933737850477478635",
+  "title": "Pretty Posy",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Aubergines",
+   "Roadworks",
+   "Semki"
+  ],
+  "thumb": "5357304963921898169-photo-m.bin"
+ },
+ {
+  "id": "5936085638515261992",
+  "title": "Signet Ring",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 198,
+  "backdropCount": 60,
+  "models": [
+   "Skibidi",
+   "Crypto Boom",
+   "Kitteh"
+  ],
+  "thumb": "5348330402123637435-photo-m.bin"
+ },
+ {
+  "id": "5773725897517433693",
+  "title": "Spring Basket",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Meme God",
+   "Bondage",
+   "Rabbit Habit"
+  ],
+  "thumb": "5197639967009961348-photo-m.bin"
+ },
+ {
+  "id": "5960747083030856414",
+  "title": "Clover Pin",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Moon Power",
+   "Emo Pin",
+   "Kelly Green"
+  ],
+  "thumb": "5384279583333839726-photo-m.bin"
+ },
+ {
+  "id": "5882125812596999035",
+  "title": "Eternal Rose",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 191,
+  "backdropCount": 60,
+  "models": [
+   "Quantum",
+   "Vivid Prize",
+   "Thor-ny"
+  ],
+  "thumb": "5276453866727038041-photo-m.bin"
+ },
+ {
+  "id": "6003456431095808759",
+  "title": "Faith Amulet",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 161,
+  "backdropCount": 80,
+  "models": [
+   "Ruby Drop",
+   "Ocean Glass",
+   "Gold Night"
+  ],
+  "thumb": "5427103310672853316-photo-m.bin"
+ },
+ {
+  "id": "5895603153683874485",
+  "title": "Fresh Socks",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Puppet Master",
+   "Billie Jean",
+   "Free Elf"
+  ],
+  "thumb": "5321016003553945898-photo-m.bin"
+ },
+ {
+  "id": "6006064678835323371",
+  "title": "Happy Brownie",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Kinky Stinky",
+   "Modern Art",
+   "Golgothan"
+  ],
+  "thumb": "5429377594640333870-photo-m.bin"
+ },
+ {
+  "id": "5900177027566142759",
+  "title": "Ice Cream",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Cryo Pepe",
+   "Poopsicle",
+   "Resistance"
+  ],
+  "thumb": "5323452998062469577-photo-m.bin"
+ },
+ {
+  "id": "5915550639663874519",
+  "title": "Love Candle",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 189,
+  "backdropCount": 60,
+  "models": [
+   "Iceberg",
+   "North Pole",
+   "Harvest"
+  ],
+  "thumb": "5285388657128136494-photo-m.bin"
+ },
+ {
+  "id": "5998981470310368313",
+  "title": "Moon Pendant",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 161,
+  "backdropCount": 80,
+  "models": [
+   "Starry Night",
+   "Silver Tree",
+   "Obsidian"
+  ],
+  "thumb": "5422868769271738074-photo-m.bin"
+ },
+ {
+  "id": "5935877878062253519",
+  "title": "Mousse Cake",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 225,
+  "backdropCount": 80,
+  "models": [
+   "Still Alive",
+   "Suprematism",
+   "Cursed Apple"
+  ],
+  "thumb": "5357565320544415913-photo-m.bin"
+ },
+ {
+  "id": "5936043693864651359",
+  "title": "Swiss Watch",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 198,
+  "backdropCount": 60,
+  "models": [
+   "Dr. Strange",
+   "Asteroid",
+   "Xenowatch"
+  ],
+  "thumb": "5291963006517795791-photo-m.bin"
+ },
+ {
+  "id": "5981132629905245483",
+  "title": "Snow Globe",
+  "stars": 75,
+  "convertStars": 64,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 136,
+  "backdropCount": 80,
+  "models": [
+   "Pepe Frost",
+   "Cherry Duck",
+   "Musk"
+  ],
+  "thumb": "5359452507699436094-photo-m.bin"
+ },
+ {
+  "id": "5898012527257715797",
+  "title": "Vice Cream",
+  "stars": 75,
+  "convertStars": 64,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 300,
+  "backdropCount": 80,
+  "models": [
+   "Tralashark",
+   "Red Dragon",
+   "Gold Leaf"
+  ],
+  "thumb": "5321019366513344041-photo-m.bin"
+ },
+ {
+  "id": "6005564615793050414",
+  "title": "Instant Ramen",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 250,
+  "backdropCount": 80,
+  "models": [
+   "Pika-Pika!",
+   "Diamonds",
+   "Golden Fleece"
+  ],
+  "thumb": "5429354096874253649-photo-m.bin"
+ },
+ {
+  "id": "5846226946928673709",
+  "title": "Magic Potion",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Error Elixir",
+   "Spooky Juice",
+   "Gold Medal"
+  ],
+  "thumb": "5258208871423425369-photo-m.bin"
+ },
+ {
+  "id": "5841689550203650524",
+  "title": "Sharp Tongue",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 229,
+  "backdropCount": 60,
+  "models": [
+   "Glitch",
+   "Teasing Look",
+   "Secret Look"
+  ],
+  "thumb": "5220049530107475342-photo-m.bin"
+ },
+ {
+  "id": "5933543975653737112",
+  "title": "Whip Cupcake",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 175,
+  "backdropCount": 80,
+  "models": [
+   "Deep State",
+   "Resistance",
+   "Bitcoin"
+  ],
+  "thumb": "5359288375524222371-photo-m.bin"
+ },
+ {
+  "id": "5846192273657692751",
+  "title": "Electric Skull",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 170,
+  "backdropCount": 80,
+  "models": [
+   "Calavera",
+   "Nightmare",
+   "Terminator"
+  ],
+  "thumb": "5220037761897085778-photo-m.bin"
+ },
+ {
+  "id": "6003735372041814769",
+  "title": "Holiday Drink",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 202,
+  "backdropCount": 80,
+  "models": [
+   "Gold Dust",
+   "Cyber Mix",
+   "Ogre Latte"
+  ],
+  "thumb": "5424735731425762513-photo-m.bin"
+ },
+ {
+  "id": "5841632504448025405",
+  "title": "Mad Pumpkin",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Creepy Po",
+   "Oh-Laa-Laa",
+   "Dark Dipsy"
+  ],
+  "thumb": "5472078009173292677-photo-m.bin"
+ },
+ {
+  "id": "5837059369300132790",
+  "title": "Scared Cat",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Bubblegum",
+   "Fern",
+   "Misty Ash"
+  ],
+  "thumb": "5256041592271157291-photo-m.bin"
+ },
+ {
+  "id": "5839038009193792264",
+  "title": "Skull Flower",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 229,
+  "backdropCount": 60,
+  "models": [
+   "Black Cat",
+   "Tim Burton",
+   "Ghost Rider"
+  ],
+  "thumb": "5240364622338340370-photo-m.bin"
+ },
+ {
+  "id": "5841391256135008713",
+  "title": "Trapped Heart",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 229,
+  "backdropCount": 60,
+  "models": [
+   "PXL PNK",
+   "Jinx",
+   "Stardust"
+  ],
+  "thumb": "5330077212022422738-photo-m.bin"
+ },
+ {
+  "id": "5825480571261813595",
+  "title": "Evil Eye",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Tesla Coil",
+   "Event Horizon",
+   "Blue Flame"
+  ],
+  "thumb": "5472306823555985042-photo-m.bin"
+ },
+ {
+  "id": "5837063436634161765",
+  "title": "Flying Broom",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Butterflight",
+   "Emergency",
+   "Hulk Juice"
+  ],
+  "thumb": "5278491193053822590-photo-m.bin"
+ },
+ {
+  "id": "5845776576658015084",
+  "title": "Kissed Frog",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 229,
+  "backdropCount": 60,
+  "models": [
+   "Zodiak Croak",
+   "Lilie Pond",
+   "Rocky Hopper"
+  ],
+  "thumb": "5269679114163338720-photo-m.bin"
+ },
+ {
+  "id": "5836780359634649414",
+  "title": "Voodoo Doll",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 138,
+  "backdropCount": 60,
+  "models": [
+   "Scribble Stab",
+   "Disco Doll",
+   "Magma Ooze"
+  ],
+  "thumb": "5249244862359812334-photo-m.bin"
+ },
+ {
+  "id": "6003373314888696650",
+  "title": "Candy Cane",
+  "stars": 10,
+  "convertStars": 9,
+  "upgradeStars": 25,
+  "modelCount": 50,
+  "patternCount": 138,
+  "backdropCount": 80,
+  "models": [
+   "Masterpiece",
+   "Designer",
+   "Mythic Candy"
+  ],
+  "thumb": "5425020328843699498-photo-m.bin"
+ },
+ {
+  "id": "5868561433997870501",
+  "title": "Cupid Charm",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 100,
+  "modelCount": 49,
+  "patternCount": 200,
+  "backdropCount": 80,
+  "models": [
+   "Ice Glass",
+   "Moon Prism",
+   "Dryad Heart"
+  ],
+  "thumb": "5294476812221439592-photo-m.bin"
+ },
+ {
+  "id": "5882260270843168924",
+  "title": "UFC Strike",
+  "stars": 250,
+  "convertStars": 213,
+  "upgradeStars": 0,
+  "modelCount": 45,
+  "patternCount": 150,
+  "backdropCount": 80,
+  "models": [
+   "Gold Volkanovski",
+   "Gold Topuria",
+   "Gold OвЂ™Malley"
+  ],
+  "thumb": "5305671403960305344-photo-m.bin"
+ },
+ {
+  "id": "6050827940390765935",
+  "title": "Algorithm Cup",
+  "stars": 20000,
+  "convertStars": 17000,
+  "upgradeStars": 4000,
+  "modelCount": 3,
+  "patternCount": 199,
+  "backdropCount": 17,
+  "models": [
+   "Gold",
+   "Silver",
+   "Bronze"
+  ],
+  "thumb": "5474546992598264488-photo-m.bin"
+ },
+ {
+  "id": "6046499901846586791",
+  "title": "Intelligence Cup",
+  "stars": 20000,
+  "convertStars": 17000,
+  "upgradeStars": 4000,
+  "modelCount": 3,
+  "patternCount": 199,
+  "backdropCount": 19,
+  "models": [
+   "Gold",
+   "Silver",
+   "Bronze"
+  ],
+  "thumb": "5467403804855016559-photo-m.bin"
+ },
+ {
+  "id": "6003477390536213997",
+  "title": "Gift 213997",
+  "stars": 41000,
+  "convertStars": 34850,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5424698365210297589-photo-m.bin"
+ },
+ {
+  "id": "5775955135867913556",
+  "title": "Gift 913556",
+  "stars": 15000,
+  "convertStars": 12750,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5201706064088694964-photo-m.bin"
+ },
+ {
+  "id": "6001229799790478558",
+  "title": "Gift 478558",
+  "stars": 10000,
+  "convertStars": 8500,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5424686446676052904-photo-m.bin"
+ },
+ {
+  "id": "6001425315291727333",
+  "title": "Gift 727333",
+  "stars": 10000,
+  "convertStars": 8500,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5425114972743046691-photo-m.bin"
+ },
+ {
+  "id": "5884080014126745057",
+  "title": "Gift 745057",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5307903378204953223-photo-m.bin"
+ },
+ {
+  "id": "5776227780391864916",
+  "title": "Gift 864916",
+  "stars": 5000,
+  "convertStars": 4250,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5199471315295176241-photo-m.bin"
+ },
+ {
+  "id": "5834918435477259676",
+  "title": "Gift 259676",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5256140105936044145-photo-m.bin"
+ },
+ {
+  "id": "5818708013426410448",
+  "title": "Telegram Pin",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5244681343643713903-photo-m.bin"
+ },
+ {
+  "id": "5956308547863052791",
+  "title": "Trojan Horse",
+  "stars": 500,
+  "convertStars": 425,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5382189300060295409-photo-m.bin"
+ },
+ {
+  "id": "5933770397739647689",
+  "title": "Gift 647689",
+  "stars": 200,
+  "convertStars": 170,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5359586167081690789-photo-m.bin"
+ },
+ {
+  "id": "5832371318007268701",
+  "title": "Gift 268701",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5256234380468193852-photo-m.bin"
+ },
+ {
+  "id": "5832325860073407546",
+  "title": "Gift 407546",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5253730706592394486-photo-m.bin"
+ },
+ {
+  "id": "5897607679345427347",
+  "title": "Gift 427347",
+  "stars": 150,
+  "convertStars": 128,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5323276535036144849-photo-m.bin"
+ },
+ {
+  "id": "5170521118301225164",
+  "title": "Diamond",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5471952986970267163-photo-m.bin"
+ },
+ {
+  "id": "5830323722413671504",
+  "title": "Gift 671504",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5253618204219046524-photo-m.bin"
+ },
+ {
+  "id": "5807641025165919973",
+  "title": "Gift 919973",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5231003994519794860-photo-m.bin"
+ },
+ {
+  "id": "5170690322832818290",
+  "title": "Ring",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5402100905883488232-photo-m.bin"
+ },
+ {
+  "id": "5168043875654172773",
+  "title": "Trophy",
+  "stars": 100,
+  "convertStars": 85,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5409008750893734809-photo-m.bin"
+ },
+ {
+  "id": "5773791997064119815",
+  "title": "Gift 119815",
+  "stars": 75,
+  "convertStars": 64,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5199430298357507333-photo-m.bin"
+ },
+ {
+  "id": "5170314324215857265",
+  "title": "Bouquet",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5395347834314696158-photo-m.bin"
+ },
+ {
+  "id": "5170144170496491616",
+  "title": "Cake",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5370999492914976897-photo-m.bin"
+ },
+ {
+  "id": "6028601630662853006",
+  "title": "Champagne",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5370900768796711127-photo-m.bin"
+ },
+ {
+  "id": "5170564780938756245",
+  "title": "Rocket",
+  "stars": 50,
+  "convertStars": 43,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5445284980978621387-photo-m.bin"
+ },
+ {
+  "id": "5170250947678437525",
+  "title": "Gift Box",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5203996991054432397-photo-m.bin"
+ },
+ {
+  "id": "5168103777563050263",
+  "title": "Rose",
+  "stars": 25,
+  "convertStars": 21,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5440911110838425969-photo-m.bin"
+ },
+ {
+  "id": "5170233102089322756",
+  "title": "Gift 322756",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5397915559037785261-photo-m.bin"
+ },
+ {
+  "id": "5170145012310081615",
+  "title": "Heart",
+  "stars": 15,
+  "convertStars": 13,
+  "upgradeStars": 0,
+  "modelCount": 0,
+  "patternCount": 0,
+  "backdropCount": 0,
+  "models": [],
+  "thumb": "5465263910414195580-photo-m.bin"
+ }
+]
