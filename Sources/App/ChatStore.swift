@@ -67,19 +67,19 @@ final class ChatStore: ObservableObject {
     }
 
     static let seed: [Chat] = [
-        Chat(id: "c1", name: "Анна", emoji: "👩🏻", unread: 2, messages: [
+        Chat(id: "c1", name: "Анна", emoji: "👩🏻", messages: [
             Message(text: "Привет! Как дела?", outgoing: false),
             Message(text: "Отлично, спасибо! Смотри, какие подарки появились", outgoing: true)
-        ]),
-        Chat(id: "c2", name: "Максим", emoji: "🧑🏽", unread: 0, messages: [
+        ], unread: 2),
+        Chat(id: "c2", name: "Максим", emoji: "🧑🏽", messages: [
             Message(text: "Отправил тебе NFT-медведя", outgoing: false)
-        ]),
-        Chat(id: "c3", name: "Команда Litgram", emoji: "✨", unread: 1, messages: [
+        ], unread: 0),
+        Chat(id: "c3", name: "Команда Litgram", emoji: "✨", messages: [
             Message(text: "Добро пожаловать в Litgram — свой мессенджер с NFT-подарками", outgoing: false)
-        ]),
-        Chat(id: "c4", name: "Мама", emoji: "🌷", unread: 0, messages: [
+        ], unread: 1),
+        Chat(id: "c4", name: "Мама", emoji: "🌷", messages: [
             Message(text: "Позвони, когда будешь свободен", outgoing: false)
-        ])
+        ], unread: 0)
     ]
 
     static let contacts: [Contact] = [
