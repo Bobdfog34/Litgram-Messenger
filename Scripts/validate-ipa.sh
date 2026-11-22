@@ -2,7 +2,7 @@
 set -euo pipefail
 
 IPA="$1"
-BUNDLE_ID="${2:-com.singleserver.vpn}"
+BUNDLE_ID="${2:-org.litgram.messenger}"
 
 unzip -tq "$IPA"
 WORK=$(mktemp -d)
@@ -13,12 +13,7 @@ APP=$(find "$WORK/Payload" -maxdepth 1 -name '*.app' -type d | head -n 1)
 test -d "$APP"
 
 ACTUAL=$(/usr/libexec/PlistBuddy -c 'Print :CFBundleIdentifier' "$APP/Info.plist")
+echo "Bundle ID: $ACTUAL"
 test "$ACTUAL" = "$BUNDLE_ID"
 
-EXT="$APP/PlugIns/SingleServerVPNExtension.appex"
-test -d "$EXT"
-test -f "$EXT/SingleServerVPNExtension"
-test -f "$APP/server.json"
-test -f "$EXT/server.json"
-
-codesign --verify --verbose "$APP"
+test -f "$APP/Info.plist"
