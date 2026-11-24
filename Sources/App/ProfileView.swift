@@ -7,12 +7,20 @@ struct ProfileView: View {
         NavigationStack {
             Form {
                 Section {
-                    HStack(spacing: 14) {
-                        Text("🙂").font(.system(size: 46))
-                            .frame(width: 64, height: 64)
-                            .background(Color.accentColor.opacity(0.12))
-                            .clipShape(Circle())
-                        VStack(alignment: .leading) {
+                    HStack(spacing: 10) {
+                        ZStack {
+                            if store.nftBubblesEnabled {
+                                NftBubbleRing(size: 132)
+                            }
+                            Text("🙂")
+                                .font(.system(size: 46))
+                                .frame(width: 64, height: 64)
+                                .background(Color.accentColor.opacity(0.12))
+                                .clipShape(Circle())
+                        }
+                        .frame(width: 142, height: 142)
+
+                        VStack(alignment: .leading, spacing: 4) {
                             Text("Вы").font(.title3.weight(.semibold))
                             Text("Аккаунт Litgram").font(.subheadline).foregroundStyle(.secondary)
                         }
@@ -34,7 +42,7 @@ struct ProfileView: View {
                         .foregroundStyle(.secondary)
                 }
                 Section("О приложении") {
-                    Text("Litgram — собственный мессенджер. NFT-подарки в галерее взяты из оригинальной коллекции подарков Telegram; код приложения не основан на исходниках Telegram.")
+                    Text("Litgram — собственный мессенджер. NFT-подарки в галерее взяты из оригинальной коллекции подарков; код приложения не основан на исходниках сторонних мессенджеров.")
                         .font(.subheadline)
                         .foregroundStyle(.secondary)
                 }
