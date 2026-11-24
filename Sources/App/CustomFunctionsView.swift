@@ -63,7 +63,7 @@ struct CustomFunctionsView: View {
                         .foregroundStyle(.secondary)
                 }
             }
-            .navigationTitle("Функции")
+            .navigationTitle("Litgram кастом")
         }
     }
 }
