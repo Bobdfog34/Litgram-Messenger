@@ -5,10 +5,14 @@ final class ChatStore: ObservableObject {
     @Published var chats: [Chat] = []
     @Published var rubPerStar: Double = 2.0
     @Published var giftsSent: Int = 0
+    @Published var nftBubblesEnabled: Bool = true
+    @Published var didShowWelcome: Bool = false
 
     private let chatsKey = "litgram.chats.v1"
     private let rateKey = "litgram.rub_per_star.v1"
     private let giftsKey = "litgram.gifts_sent.v1"
+    private let bubblesKey = "litgram.nft_bubbles.v1"
+    private let welcomeKey = "litgram.did_show_welcome.v1"
 
     init() {
         load()
@@ -28,6 +32,10 @@ final class ChatStore: ObservableObject {
         if defaults.object(forKey: giftsKey) != nil {
             giftsSent = defaults.integer(forKey: giftsKey)
         }
+        if defaults.object(forKey: bubblesKey) != nil {
+            nftBubblesEnabled = defaults.bool(forKey: bubblesKey)
+        }
+        didShowWelcome = defaults.bool(forKey: welcomeKey)
     }
 
     func save() {
@@ -37,6 +45,8 @@ final class ChatStore: ObservableObject {
         }
         defaults.set(rubPerStar, forKey: rateKey)
         defaults.set(giftsSent, forKey: giftsKey)
+        defaults.set(nftBubblesEnabled, forKey: bubblesKey)
+        defaults.set(didShowWelcome, forKey: welcomeKey)
     }
 
     func send(_ text: String, in chatID: String) {
