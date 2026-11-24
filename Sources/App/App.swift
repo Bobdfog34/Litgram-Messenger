@@ -10,7 +10,7 @@ struct LitgramMessengerApp: App {
                 if store.didShowWelcome {
                     TabView {
                         CustomFunctionsView()
-                            .tabItem { Label("Функции", systemImage: "sparkles.rectangle.stack.fill") }
+                            .tabItem { Label("Litgram кастом", systemImage: "sparkles.rectangle.stack.fill") }
                             .badge("NEW")
                         ChatsView()
                             .tabItem { Label("Чаты", systemImage: "bubble.left.and.bubble.right.fill") }
