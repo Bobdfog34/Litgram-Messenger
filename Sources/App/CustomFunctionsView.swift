@@ -22,7 +22,7 @@ struct CustomFunctionsView: View {
                             .clipShape(RoundedRectangle(cornerRadius: 14))
 
                         VStack(alignment: .leading, spacing: 3) {
-                            Text("Кастомные функции")
+                            Text("Litgram кастом")
                                 .font(.headline)
                             Text("Новое в Litgram — первая вкладка настроек")
                                 .font(.caption)
